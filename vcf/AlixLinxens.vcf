@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Linxens;Alix;;;
+FN:Alix Linxens
+ORG:Linxens
+TITLE:Vice-President Healthcare
+TEL;type=Mobile;waid=33666924579:+33 6 66 92 45 79
+item1.URL:www.linxens.com
+item1.X-ABLabel:OTHER
+item2.EMAIL;type=INTERNET:alix.joseph@linxens.com
+item2.X-ABLabel:Domicile
+item3.ADR:;;122 Rue Édouard Vailla nt;Levallois Perret;;92300;France
+item3.X-ABADR:fr
+item3.X-ABLabel:Domicile
+END:VCARD
